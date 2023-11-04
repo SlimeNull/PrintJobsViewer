@@ -90,6 +90,9 @@ namespace PrintJobsViewer
             MessageBox.Show(this,
                 $"""
                 Print jobs viewer (v{version})
+
+                Author: SlimeNull
+                Repository: https://github.com/SlimeNull/PrintJobsViewer
                 """,
                 "About");
         }
